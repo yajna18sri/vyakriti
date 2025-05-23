@@ -1,1 +1,13 @@
-As a part of the machine learning research team at Vyākruthi Technologies, I contributed to a data-driven project aimed at analyzing and predicting student academic performance using Educational Data Mining (EDM) and predictive analytics. The focus was on building interpretable and accurate models to assist educators in identifying at-risk students, improving academic interventions, and enhancing learning outcomes, especially for students in Bangladesh’s Higher Secondary Certificate (HSC) humanities programs.
+As a part of the machine learning research team at Vyākruthi Technologies, I contributed to a data-driven project aimed at analyzing and predicting student academic performance using Educational Data Mining (EDM)
+and predictive analytics. The focus was on building interpretable and accurate models to assist educators in identifying at-risk students, improving academic interventions, and enhancing learning outcomes,
+especially for students in Bangladesh’s Higher Secondary Certificate (HSC) humanities programs.
+>>
+Summary:
+
+This study investigates student academic performance using Educational Data Mining (EDM) and predictive analytics, focusing on higher secondary students in Bangladesh.
+It aims to predict final grades based on internal examination scores without using demographic or socioeconomic data, ensuring an unbiased analysis. 
+The study evaluates six machine learning models—Decision Tree (J48), Support Vector Machine, K-Nearest Neighbors, Naïve Bayes, and Random Forest—on both real and synthetic datasets,
+applying techniques like SMOTE and feature selection to handle class imbalance. Results highlight that Decision Tree and Random Forest models, particularly when combined with SMOTE,
+offer high prediction accuracy, with Random Forest achieving a 99.5% f-measure. The paper also identifies subject-wise performance trends to categorize subjects as boosters or degraders and
+provides actionable insights to support at-risk students. Overall, the research demonstrates the potential of data-driven models to enhance academic monitoring, intervention, and educational outcomes.
+
